@@ -214,14 +214,14 @@ body {
 /* end landing */
 
 .separator {
-    background-image: url(/images/bg-curve-desktop.svg);
+    background-image: url(./images/bg-curve-desktop.svg);
     height: 108px;
     width: 100%;
 }
 
 @media (max-width:767px) {
     .separator {
-        background-image: url(/images/bg-curve-mobile.svg);
+        background-image: url(./images/bg-curve-mobile.svg);
         height: 54px;
         background-size: 100%;
     }
